@@ -8,6 +8,32 @@ El código fuente y la configuración del producto permanecen en repositorios pr
 
 ## Galería
 
+![Captura 1](1.jpg)
+
+![Captura 2](2.jpg)
+
+![Captura 3](3.jpg)
+
+![Captura 4](4.jpg)
+
+![Captura 5](5.jpg)
+
+![Captura 6](6.jpg)
+
+![Captura 7](7.jpg)
+
+![Captura 8](8.jpg)
+
+![Captura 9](9.jpg)
+
+![Captura 10](10.jpg)
+
+![Captura 11](11.jpg)
+
+---
+
+## Archivos
+
 | # | Archivo |
 |---|---------|
 | 1 | `1.jpg` |
