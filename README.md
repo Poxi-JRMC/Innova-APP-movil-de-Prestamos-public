@@ -1,6 +1,6 @@
 # Innova — Sistema de impresión (capturas públicas)
 
-Repositorio **público** con capturas de referencia en **dos columnas** para verlas cómodas sin tanto desplazamiento.
+Repositorio **público** con capturas de referencia (`1`–`8`, `10`, `11`) en **dos columnas** para verlas cómodas sin tanto desplazamiento.
 
 El código fuente y la configuración del producto permanecen en repositorios privados.
 
@@ -29,7 +29,7 @@ El código fuente y la configuración del producto permanecen en repositorios pr
 </p>
 
 <p align="center">
-  <img src="9.jpg" alt="Captura 9" width="48%" />
+  <img src="10.jpg" alt="Captura 10" width="48%" />
   <img src="11.jpg" alt="Captura 11" width="48%" />
 </p>
 
@@ -47,7 +47,7 @@ El código fuente y la configuración del producto permanecen en repositorios pr
 | 6 | `6.jpg` |
 | 7 | `7.jpg` |
 | 8 | `8.jpg` |
-| 9 | `9.jpg` |
+| 10 | `10.jpg` |
 | 11 | `11.jpg` |
 
 ---
