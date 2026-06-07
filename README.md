@@ -1,4 +1,4 @@
-# Innova — Sistema de impresión (capturas públicas)
+# Innova — APP movil de prestamos (capturas públicas)
 
 Repositorio **público** con capturas de referencia (`1`–`8`, `10`, `11`) en **dos columnas** para verlas cómodas sin tanto desplazamiento.
 
